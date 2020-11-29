@@ -1,0 +1,22 @@
+{
+  "name": "centronodes",
+  "version": "0.2.0",
+  "description": "Official CentroNodes api made in NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonDerpy/centronodes-api.git"
+  },
+  "keywords": [
+    "centronodes"
+  ],
+  "author": "Withdrawal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SonDerpy/centronodes-api/issues"
+  },
+  "homepage": "https://github.com/SonDerpy/centronodes-api#readme"
+}
